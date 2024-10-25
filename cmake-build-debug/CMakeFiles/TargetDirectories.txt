@@ -1,0 +1,3 @@
+C:/Users/arthur.croucher24/Documents/GitHub/c-chapterX-queues-BHASVIC-arthurc/cmake-build-debug/CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir
+C:/Users/arthur.croucher24/Documents/GitHub/c-chapterX-queues-BHASVIC-arthurc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arthur.croucher24/Documents/GitHub/c-chapterX-queues-BHASVIC-arthurc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

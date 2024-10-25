@@ -1,0 +1,19 @@
+# ninja log v6
+3	260	7515589797917253	build.ninja	f1b775af940c40b4
+5	104	7514611692385646	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/QueueSkeleton.c.obj	a1e4c275f14546d9
+108	244	7514635107591578	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+6	108	7514635106569143	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+6	151	7515590351001892	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+152	452	7515590352459774	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+6	118	7515591379147848	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+119	279	7515591380278493	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+8	124	7515592353899055	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+125	281	7515592355066634	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+7	121	7515592634333808	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+122	272	7515592635486878	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+5	109	7515593649783346	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+110	497	7515593650821970	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+5	118	7515595032005799	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+118	266	7515595033137631	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
+6	106	7515595177380314	CMakeFiles/c_chapterX_queues_BHASVIC_arthurc.dir/wordstack.c.obj	4352faef08d36536
+107	242	7515595178398231	c_chapterX_queues_BHASVIC_arthurc.exe	683aee3fa606e3f7
